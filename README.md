@@ -11,3 +11,5 @@ Entry line:
 > Confession: I have read your entire inbox, and I still reply 'per my last email' like I did not.
 
 Run it with: `node main.ts`
+
+Gate: one line of 1 to 200 characters.
